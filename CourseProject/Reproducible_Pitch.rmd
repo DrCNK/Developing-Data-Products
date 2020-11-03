@@ -40,7 +40,7 @@ head(dataset)
 
 ## Link to the project and docs
 
-1. shiny Apps : <a href="">Cement Exploration</a>
-2. server.R and ui.R file : <a href="">Link</a>
+1. shiny Apps : <a href="https://doccnk.shinyapps.io/DDPCourseProject/">Cement Exploration</a>
+2. server.R and ui.R file : <a href="https://github.com/DrCNK/Developing-Data-Products/tree/master/CourseProject">Link</a>
 
 Please try out different options using the application. Thank You.
